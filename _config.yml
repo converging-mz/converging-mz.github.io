@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Minhui Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : 
+  bio              : "Postdoc"
+  googlescholar    : "https://scholar.google.com/citations?user=QPcB69UAAAAJ&hl=en"
   employer         : "Argonne National Lab"
   uri              : # URL
   email            : "minhui.zhu@anl.gov" 
@@ -34,7 +34,6 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=QPcB69UAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
