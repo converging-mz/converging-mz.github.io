@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a postdoc working on AI for Science with Dr. Nicholas Chia at the Data Science and Learning division at Argonne National Lab. Previously, I obtained my PhD in physics from University of Illinois at Urbana-Champaign, advised by Prof. Nigel Goldenfeld. 
+I am a postdoctoral researcher at Argonne National Laboratory, working with Dr. [Nicholas Chia](https://www.anl.gov/profile/nicholas-leeping-chia) on AI for Science. I received my Ph.D. in Physics from the University of Illinois at Urbana-Champaign, where I was advised by Prof. [Nigel Goldenfeld](https://guava.physics.ucsd.edu/~nigel/).

@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-Here you can write about the software you have developed. 
+My research interests lie at the intersection of physics, applied mathematics, and artificial intelligence. My work focuses on the following areas:
 
-You can use **Markdown** to format the text, add links, and even include images.
+## Asymptotic Analysis of Singular Dynamical Systems
+
+
+## Applying AI for Scientific Discovery
+
+
+## Nonlinear Dynamics in Neural Networks
+
+
